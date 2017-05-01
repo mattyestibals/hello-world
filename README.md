@@ -1,2 +1,3 @@
 # hello-world
 First Github repo to test
+This is made while following a guide...
